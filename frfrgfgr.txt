@@ -1,0 +1,1 @@
+	<link rel="shortcut icon" href="time-13-16.png"/>
